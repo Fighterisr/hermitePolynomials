@@ -1,5 +1,10 @@
 # hermitePolynomials
 
+**Files explanation:**
+
+hermite.py: contains the hermite polynomial function
+test.py: code to test some hermite approximations
+
 **Instructions:**
 1. import hermite.py, example: from hermite import hermitePolynomial
 2. To calculate hermite value, you will need x array of points, fx array and derivative of fx array
