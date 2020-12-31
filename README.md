@@ -23,7 +23,7 @@ fx = [0.6200860, 0.4554022, 0.2818186]
 
 fxDer = [-0.5220232, -0.5698959, -0.5811571]
 
-and we aree looking for the approximation of the value 1.5
+and we are looking for the approximation of the value 1.5
 
 call the function hermitePolynomial(value,x,fx,fxDerivative):
 hermitePolynomial(1.5,x,fx,fxDer)
